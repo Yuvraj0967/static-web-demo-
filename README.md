@@ -1,4 +1,4 @@
-# 🌐 Automated Static Website with CI/CD
+# 🌐 Automated Static Website with CI/CD(by yuvraj pateria srn:pes1ug24cs547)
 
 ![Deploy Static Website](https://img.shields.io/badge/CI%2FCD-GitHub%20Actions-blue?logo=github-actions)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
